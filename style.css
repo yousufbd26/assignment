@@ -1,0 +1,106 @@
+body{
+       font-family: 'Francois One', sans-serif;
+}
+
+section{
+    height:600px;
+}
+
+.highlights{
+    color:red;
+}
+ h1{
+     font-size: 50px;
+     font-style: bold;
+ }
+ p{
+    font-family: 'Abel', sans-serif;
+    font-size: 30px;
+ }
+
+ .half-width{
+     float:left;
+     margin-left: 5%;
+     padding-left:2%;
+     width:40%;
+ }
+
+ .half-width img{
+     width:100%;
+ }
+
+ .button{
+    border-radius: 5px;
+    background-color:rgb(163, 77, 27);
+    padding:20px 40px;
+    color:rgb(141, 137, 137);
+    font-style: bold;
+    text-decoration: none;
+    font: size 40 ;
+ }
+
+ .second-last{
+    margin:0;
+    }
+    .bdr{
+        float:left;
+        padding: 22px;
+        margin: 0px 10px;
+        width: 330px;
+        box-shadow: 15px 15px 40px gray;
+        border-radius: 5px;
+        background-color: white;
+    }
+
+    .bdr p{
+        font-size:medium;
+    }
+
+    .second-last{background-color: #E9EBEC;
+        background-repeat: no-repeat;
+        padding: 5%;
+        overflow: hidden;}
+        
+    .nice{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+    padding-bottom: 48px;
+    }
+    .Image_content{
+    width: 100%;
+    height: 230px;
+    }
+    .Image_content img{
+    width: 100%;
+    height: 100%;
+    }
+
+    .sesh{
+        margin-top: 95px;
+    }
+    .lal{
+        background-image: url("images/abcd.png");
+        background-repeat: no-repeat;
+      background-position: center;
+    }
+        
+      .btlal{
+        width: 800px;
+        height: 198px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+          padding: 0px 50px
+      }
+      .hhh{
+        color: #fff;
+      }
+      .atn{
+        color: #fff;
+        text-decoration: none;
+        font-size: 16px;
+        border: 1px solid #fff;
+        padding: 8px 12px;
+      }
